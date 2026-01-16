@@ -1,0 +1,43 @@
+main {
+  width: 1300px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.firstRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.secondRow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.box {
+  width: 400px;
+}
+
+.headerDiv {
+  display: flex;
+  align-items: center;
+}
+
+a {
+  margin-left: 10px;
+  color: blue;
+  font-size: 20px;
+}
+
+.bodyDiv {
+  padding-left: 30px;
+}
+
+.editPar {
+  color: grey;
+  text-decoration: underline;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
